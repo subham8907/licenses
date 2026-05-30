@@ -690,6 +690,16 @@ granted under Section 7 of version 3 of the GNU General Public
 License, and the "GNU GPL" refers to version 3 of the GNU General
 Public License.
 
+  "Release Date" means the date on which the covered work was first
+publicly conveyed or made available by the licensor, as specified in
+the Appendix to this License.  If no Release Date is specified in the
+Appendix, the rights and exemptions under Section 4 apply
+automatically and immediately upon the first act of conveyance of the
+covered work.
+
+  "Conversion Date" means the date that falls 3,652 days after the
+Release Date.
+
   Exception to Section 6 of the GNU GPL.
 
   If you cannot convey a covered work under the terms of Section 6
@@ -762,9 +772,11 @@ a different modified version.  Each act of conveyance described in
 (a) and (b) above gives rise to its own independent and full
 obligation under Section 1.
 
-  4. If you have continuously possessed a covered work for a period
-of not less than 3,652 days from the date you first lawfully acquired
-it, each Contributor hereby grants to You the following licenses:
+  4. Automatic Conversion Upon Release.
+
+  On and after the Conversion Date, or immediately and automatically
+if no Release Date is specified in the Appendix, each Contributor
+hereby grants to You the following licenses:
 
   Copyright License: each Contributor hereby grants to You a
 perpetual, worldwide, non-exclusive, no-charge, royalty-free,
@@ -812,6 +824,40 @@ does not extend to the requirements set out in (a) and (b) above.
 The obligation to convey this License and the GNU GPL in their
 entirety remains a non-waivable condition of this exemption and
 survives regardless of any other terms under which the covered work
-is conveyed.  The burden of demonstrating continuous possession for
-the required period rests with the party seeking to rely on this
-exemption.
+is conveyed.
+                            APPENDIX
+
+          How to Apply This License Exception to Your Work
+
+  To apply this License Exception to your work, attach the following
+notice to each source file or to an accompanying LICENSE or NOTICE
+file.  Fill in the fields enclosed in brackets "[]".  If you do not
+specify a Release Date, the rights and exemptions under Section 4
+will apply automatically and immediately upon the first conveyance
+of the covered work.
+
+------------------------------------------------------------------------
+
+  [Work Name]
+  Copyright (C) [Year] [Name of Copyright Holder]
+
+  This work is licensed under the License Exception, which
+  incorporates the GNU General Public License version 3.
+
+  Release Date: [YYYY-MM-DD]
+        -- or --
+  Release Date: Not specified (Section 4 rights apply automatically)
+
+  Conversion Date: [YYYY-MM-DD, i.e. 3,652 days after Release Date]
+        -- or --
+  Conversion Date: Not applicable (Section 4 rights apply immediately)
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+------------------------------------------------------------------------
