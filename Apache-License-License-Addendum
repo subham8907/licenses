@@ -1,0 +1,579 @@
+
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
+
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
+
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
+
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
+
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, and configuration files.
+
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
+      not limited to compiled object code, generated documentation,
+      and conversions to other media types.
+
+      "Work" shall mean the work of authorship, whether in Source or
+      Object form, made available under the License, as indicated by a
+      copyright notice that is included in or attached to the work
+      (an example is provided in the Appendix below).
+
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based on (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other modifications
+      represent, as a whole, an original work of authorship. For the purposes
+      of this License, Derivative Works shall not include works that remain
+      separable from, or merely link (or bind by name) to the interfaces of,
+      the Work and Derivative Works thereof.
+
+      "Contribution" shall mean any work of authorship, including
+      the original version of the Work and any modifications or additions
+      to that Work or Derivative Works thereof, that is intentionally
+      submitted to Licensor for inclusion in the Work by the copyright owner
+      or by an individual or Legal Entity authorized to submit on behalf of
+      the copyright owner. For the purposes of this definition, "submitted"
+      means any form of electronic, verbal, or written communication sent
+      to the Licensor or its representatives, including but not limited to
+      communication on electronic mailing lists, source code control systems,
+      and issue tracking systems that are managed by, or on behalf of, the
+      Licensor for the purpose of discussing and improving the Work, but
+      excluding communication that is conspicuously marked or otherwise
+      designated in writing by the copyright owner as "Not a Contribution."
+
+      "Contributor" shall mean Licensor and any individual or Legal Entity
+      on behalf of whom a Contribution has been received by Licensor and
+      subsequently incorporated within the Work.
+
+   2. Grant of Copyright License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      copyright license to reproduce, prepare Derivative Works of,
+      publicly display, publicly perform, sublicense, and distribute the
+      Work and such Derivative Works in Source or Object form.
+
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have made,
+      use, offer to sell, sell, import, and otherwise transfer the Work,
+      where such license applies only to those patent claims licensable
+      by such Contributor that are necessarily infringed by their
+      Contribution(s) alone or by combination of their Contribution(s)
+      with the Work to which such Contribution(s) was submitted. If You
+      institute patent litigation against any entity (including a
+      cross-claim or counterclaim in a lawsuit) alleging that the Work
+      or a Contribution incorporated within the Work constitutes direct
+      or contributory patent infringement, then any patent licenses
+      granted to You under this License for that Work shall terminate
+      as of the date such litigation is filed.
+
+   4. Redistribution. You may reproduce and distribute copies of the
+      Work or Derivative Works thereof in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet the following conditions:
+
+      (a) You must give any other recipients of the Work or
+          Derivative Works a copy of this License; and
+
+      (b) You must cause any modified files to carry prominent notices
+          stating that You changed the files; and
+
+      (c) You must retain, in the Source form of any Derivative Works
+          that You distribute, all copyright, patent, trademark, and
+          attribution notices from the Source form of the Work,
+          excluding those notices that do not pertain to any part of
+          the Derivative Works; and
+
+      (d) If the Work includes a "NOTICE" text file as part of its
+          distribution, then any Derivative Works that You distribute must
+          include a readable copy of the attribution notices contained
+          within such NOTICE file, excluding those notices that do not
+          pertain to any part of the Derivative Works, in at least one
+          of the following places: within a NOTICE text file distributed
+          as part of the Derivative Works; within the Source form or
+          documentation, if provided along with the Derivative Works; or,
+          within a display generated by the Derivative Works, if and
+          wherever such third-party notices normally appear. The contents
+          of the NOTICE file are for informational purposes only and
+          do not modify the License. You may add Your own attribution
+          notices within Derivative Works that You distribute, alongside
+          or as an addendum to the NOTICE text from the Work, provided
+          that such additional attribution notices cannot be construed
+          as modifying the License.
+
+      You may add Your own copyright statement to Your modifications and
+      may provide additional or different license terms and conditions
+      for use, reproduction, or distribution of Your modifications, or
+      for any such Derivative Works as a whole, provided Your use,
+      reproduction, and distribution of the Work otherwise complies with
+      the conditions stated in this License.
+
+   5. Submission of Contributions. Unless You explicitly state otherwise,
+      any Contribution intentionally submitted for inclusion in the Work
+      by You to the Licensor shall be under the terms and conditions of
+      this License, without any additional terms or conditions.
+      Notwithstanding the above, nothing herein shall supersede or modify
+      the terms of any separate license agreement you may have executed
+      with Licensor regarding such Contributions.
+
+   6. Trademarks. This License does not grant permission to use the trade
+      names, trademarks, service marks, or product names of the Licensor,
+      except as required for reasonable and customary use in describing the
+      origin of the Work and reproducing the content of the NOTICE file.
+
+   7. Disclaimer of Warranty. Unless required by applicable law or
+      agreed to in writing, Licensor provides the Work (and each
+      Contributor provides its Contributions) on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+      implied, including, without limitation, any warranties or conditions
+      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+      PARTICULAR PURPOSE. You are solely responsible for determining the
+      appropriateness of using or redistributing the Work and assume any
+      risks associated with Your exercise of permissions under this License.
+
+   8. Limitation of Liability. In no event and under no legal theory,
+      whether in tort (including negligence), contract, or otherwise,
+      unless required by applicable law (such as deliberate and grossly
+      negligent acts) or agreed to in writing, shall any Contributor be
+      liable to You for damages, including any direct, indirect, special,
+      incidental, or consequential damages of any character arising as a
+      result of this License or out of the use or inability to use the
+      Work (including but not limited to damages for loss of goodwill,
+      work stoppage, computer failure or malfunction, or any and all
+      other commercial damages or losses), even if such Contributor
+      has been advised of the possibility of such damages.
+
+   9. Accepting Warranty or Additional Liability. While redistributing
+      the Work or Derivative Works thereof, You may choose to offer,
+      and charge a fee for, acceptance of support, warranty, indemnity,
+      or other liability obligations and/or rights consistent with this
+      License. However, in accepting such obligations, You may act only
+      on Your own behalf and on Your sole responsibility, not on behalf
+      of any other Contributor, and only if You agree to indemnify,
+      defend, and hold each Contributor harmless for any liability
+      incurred by, or claims asserted against, such Contributor by reason
+      of your accepting any such warranty or additional liability.
+
+   END OF TERMS AND CONDITIONS
+
+   APPENDIX: How to apply the Apache License to your work.
+
+      To apply the Apache License to your work, attach the following
+      boilerplate notice, with the fields enclosed by brackets "[]"
+      replaced with your own identifying information. (Don't include
+      the brackets!)  The text should be enclosed in the appropriate
+      comment syntax for the file format. We also recommend that a
+      file or class name and description of purpose be included on the
+      same "printed page" as the copyright notice for easier
+      identification within third-party archives.
+
+   Copyright [yyyy] [name of copyright owner]
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+LICENSE ADDENDUM
+
+   Any software released under this agreement is subject to the
+   following terms.
+
+   TERMS AND CONDITIONS
+
+   1. Definitions.
+
+      "License" means the Apache License, Version 2.0, January 2004.
+
+      "License Addendum" means this document, which incorporates the
+      terms and conditions of the Apache License, Version 2.0, January
+      2004 (the "License") and supplements them with the additional
+      terms, conditions, and permissions set forth in Sections 1
+      (Definitions), 2 (Redistribution), 3 (Termination), 4 (Grant of
+      Patent License), 5 (Grant of Copyright License), 6
+      (Notwithstanding this License Addendum), 7 (Font Exception), and
+      8 (Compiler Exception), together with Appendix Sections (a)
+      (Inline Notice), (b) (When Inline Notice Cannot Be Applied), (c)
+      (Distribution in Object Form), and (d) (Network Interaction).
+
+      "Work" shall mean the work of authorship, whether in Source or
+      Object form, made available under the License and License
+      Addendum, as indicated by a copyright notice that is included in
+      or attached to the work (an example is provided in the Appendix
+      below).
+
+      "Larger Work" shall mean a work that combines the Work or
+      Derivative Works thereof with other separate and independent
+      works or components, which are not themselves Derivative Works of
+      the Work, in Source or Object form, where such combination is
+      produced and distributed as a single integrated work.
+
+     
+            "Font" shall mean a Work that is a set of glyphs, letterforms,
+      typographic designs, or related data files, whether in outline,
+      bitmap, or other format, that is used to render text in a
+      document or software application, and that is made available
+      under this License and this License Addendum, in either of the
+      following forms:
+ 
+        (i) "Font Source form" shall mean the preferred form of the
+            Font for making modifications, including but not limited
+            to font source files, glyph design files, build scripts,
+            configuration files, and supporting documentation; or
+ 
+       (ii) "Font Object form" shall mean any form resulting from
+            mechanical transformation or translation of a Font Source
+            form, including but not limited to compiled font binaries
+            in outline formats such as TrueType (.ttf), OpenType
+            (.otf), Web Open Font Format (.woff, .woff2), and bitmap
+            or rasterized font formats.
+
+ 
+
+      "Compiler" shall mean any tool or program governed by this
+      License and this License Addendum whose purpose is to transform
+      a Work from Source form into Object form, where such
+      transformation shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
+      not limited to compiled object code, generated documentation,
+      and conversions to other media types.
+
+   2. Redistribution. You may reproduce and distribute copies of the
+      Work or Derivative Works in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet all of the following conditions, in addition to the terms
+      and conditions of the Apache License, Version 2.0:
+
+      (a) Contributions. Unless You explicitly state otherwise, any
+          Contribution intentionally submitted for inclusion in the
+          Work by You to the Licensor shall be governed by the terms
+          and conditions of this License Addendum and the Apache
+          License, Version 2.0. Nothing herein shall supersede or
+          modify the terms of any separate license agreement you may
+          have executed with the Licensor regarding such Contributions.
+
+      (b) Change Notices. You are permitted to omit prominent notices
+          stating that You have modified files, provided that You
+          comply with all terms and conditions of this License Addendum
+          and the Apache License, Version 2.0.
+
+      (c) Derivative Works. Any licensor or contributor of a Derivative
+          Work licensed under this License Addendum who elects to use
+          the Apache License, Version 2.0 shall also license their work
+          under this License Addendum. If a licensor or contributor
+          licenses their modifications under a different license, they
+          are not required to license such modifications under this
+          License Addendum.
+
+      (d) Interpretation. Unless expressly defined in this License
+          Addendum, all words, figures, and definitions shall be
+          construed and interpreted in accordance with the Apache
+          License, Version 2.0.
+
+      (e) Distribution of License Addendum. You must provide any
+          recipients of the Work or Derivative Works with a copy of
+          this License Addendum.
+
+   3. Termination. This License Addendum and the rights granted
+      hereunder are subject to termination as follows:
+
+      (a) Cure Period for Material Breaches. If You breach any material
+          term or condition of either the Apache License, Version 2.0
+          or this License Addendum, the Licensor or Contributors may
+          provide written notice of the breach. You shall have thirty
+          (30) days from receipt of such notice to cure the breach. If
+          You cure the breach within this period, no termination shall
+          occur. If You fail to cure within thirty (30) days, all
+          rights granted by the Licensor and Contributors — including
+          the perpetual, worldwide, non-exclusive, no-charge,
+          royalty-free, irrevocable copyright license to reproduce,
+          prepare Derivative Works of, publicly display, publicly
+          perform, sublicense, and distribute the Work and such
+          Derivative Works in Source or Object form — shall be
+          automatically revoked.
+
+      (b) Immediate Termination. Notwithstanding subsection (a), if
+          You institute patent litigation against any entity (including
+          a cross-claim or counterclaim in a lawsuit) alleging that the
+          Work or a Contribution incorporated within the Work
+          constitutes direct or contributory patent infringement, all
+          rights granted under this License Addendum shall terminate
+          immediately as of the date such litigation is filed.
+
+      (c) Persistent Non-Compliance. If You repeatedly (more than
+          once) breach the same material term within three hundred
+          sixty-five (365) days, the Licensor may terminate rights
+          immediately upon written notice of the second breach, without
+          providing an additional cure period.
+
+   4. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have
+      made, use, offer to sell, sell, import, and otherwise transfer
+      the Work, where such license applies only to those patent claims
+      licensable by such Contributor that are necessarily infringed by
+      their Contribution(s) alone or by combination of their
+      Contribution(s) with the Work to which such Contribution(s) was
+      submitted. If You institute patent litigation against any entity
+      (including a cross-claim or counterclaim in a lawsuit) alleging
+      that the Work or a Contribution incorporated within the Work
+      constitutes direct or contributory patent infringement, then any
+      patent licenses granted to You under this License Addendum and
+      License for that Work shall terminate as of the date such
+      litigation is filed.
+
+   5. Grant of Copyright License. Subject to the terms and conditions
+      of this License Addendum and License, each Contributor hereby
+      grants to You a perpetual, worldwide, non-exclusive, no-charge,
+      royalty-free, irrevocable copyright license to reproduce, prepare
+      Derivative Works of, publicly display, publicly perform,
+      sublicense, and distribute the Work and such Derivative Works in
+      Source or Object form.
+
+      Regardless of whether Your work is a Derivative Work or an
+      independent work that incorporates the Work, if You elect to
+      license Your work under the Apache License, Version 2.0, January
+      2004, You must also license Your work under this License Addendum.
+      This requirement applies whether Your work incorporates the Work
+      in whole or in part, and whether the resulting work constitutes a
+      Derivative Work or a Larger Work, in Source or Object form.
+
+      You are not required to license Your work under the Apache
+      License, Version 2.0, January 2004, and may elect to license Your
+      work under a different license of Your choosing, provided that
+      You comply with all terms and conditions of the Apache License,
+      Version 2.0, January 2004 and this License Addendum as they
+      pertain to the Licensor and Contributors, including but not
+      limited to attribution, preservation of notices, and the rights
+      granted to downstream recipients of the Work. Electing a
+      different license does not relieve You of the obligations imposed
+      by the Apache License, Version 2.0, January 2004 and this
+      License Addendum with respect to the Work.
+
+   6. Notwithstanding this License Addendum. Notwithstanding the
+      terms and conditions of the Apache License, Version 2.0, January
+      2004, this License Addendum amends and supplements the Apache
+      License, Version 2.0, January 2004 with respect to the Work.
+
+    7. Font Exception. As a special exception, if you create a document
+      which uses a Font, and embed that Font in Font Object form, or
+      unaltered portions of that Font in Font Object form, into the
+      document, the Font does not by itself cause the resulting document
+      to be covered by this License Addendum or the Apache License,
+      Version 2.0. You are not required to include or distribute a copy
+      of this License Addendum with any document that embeds the Font
+      in Font Object form solely pursuant to this exception. This
+      exception applies only to embedding in Font Object form; embedding
+      or distributing a Font in Font Source form remains fully subject
+      to the terms of this License Addendum and the Apache License,
+      Version 2.0.
+ 
+
+
+   8. Compiler Exception. As a special exception, if, as a result of
+      your compiling your source code using a Compiler, portions of
+      this Software are embedded into an Object form of such source
+      code, you may redistribute such embedded portions in such Object
+      form without complying with the conditions of Sections 4(a),
+      4(b) and 4(d) of the License, and without being required to
+      include or distribute a copy of this License Addendum with such
+      Object form.
+
+   END OF TERMS AND CONDITIONS
+
+   APPENDIX: How to apply the Apache License, Version 2.0 and this License Addendum to your work.
+
+      For all distributions of the Work in Source form, you must
+      clearly identify the origin and license status of all files
+      governed by the Apache License, Version 2.0, January 2004 and
+      this License Addendum. You may use EITHER of the following
+      methods:
+
+         - Appendix A (Inline Notice): Attach license notices directly
+           to source files.
+         - Appendix B (Separate Notice File): Use a centralized
+           notice file (e.g. LICENSE-NOTICE, NOTICE, or LICENSES).
+         - Appendix C (Distribution in Object Form): Requirements for
+           distributing the Work in binary or compiled form.
+         - Appendix D (Network Interaction): Requirements when making
+           the Work available through a network interface.
+
+      Choose the method that is most practical for your project,
+      provided that the origin, copyright, and license of each file
+      (or directory of files) is clearly and unambiguously identifiable
+      to any recipient of the source code.
+
+      In addition to the methods above, you must also comply with
+      Sections 4(c) and 4(d) of the Apache License, Version 2.0.
+
+   (a) Inline Notice. To apply this License Addendum to your work,
+       attach the following boilerplate notice to each full or partial
+       file governed by this License Addendum. The text should be
+       enclosed in the appropriate comment syntax for the file format.
+       We also recommend that a file or class name and description of
+       purpose be included on the same page as the copyright notice for
+       easier identification within third-party archives. Where all
+       files within a given path are governed by the Apache License,
+       Version 2.0, January 2004 and this License Addendum, You may
+       specify the path in lieu of listing individual files, provided
+       that no file within that path is governed by a different license.
+       If any file within the specified path is governed by a different
+       license, that file must be explicitly identified and excluded
+       from the path-level declaration.
+
+   Copyright [yyyy] [name of copyright owner]
+
+   This file, whether in full or in part, is licensed under the Apache
+   License, Version 2.0 (the "License") and the License Addendum; you
+   may not use this file except in compliance with the License and the
+   License Addendum. You may obtain a copy of the Apache License,
+   Version 2.0 at:
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+   implied. See the License for the specific language governing
+   permissions and limitations under the License and the License
+   Addendum.
+
+   (b) When Inline Notice Cannot Be Applied. Some file formats do not
+       support embedded comment headers — such as binary assets,
+       compiled resources, images, fonts, data files, and certain
+       configuration or markup formats. Where it is not practical to
+       include the boilerplate declaration directly within a full or
+       partial file, you must instead record that file's license status
+       in a separate, clearly named notice file distributed alongside
+       the work. The notice file may be named "LICENSE-NOTICE",
+       "NOTICE", "LICENSES", or any other clearly descriptive name that
+       unambiguously identifies it as a license notice file, and must
+       contain, for each full or partial file that cannot carry an
+       inline header, at minimum:
+
+         File: [relative path to the full or partial file, or directory]
+         Copyright [yyyy] [name of copyright owner]
+         Licensed under the Apache License, Version 2.0, January 2004
+         and License Addendum
+
+       Where all files within a given path are governed by the Apache
+       License, Version 2.0, January 2004 and this License Addendum,
+       You may specify the path to that directory in lieu of listing
+       each file individually, provided that no file within that path
+       is governed by a different license. Any file within the specified
+       path that is governed by a different license must be explicitly
+       listed and excluded from the path-level declaration.
+
+       This separate notice is legally equivalent to an inline header
+       for purposes of this License. The absence of an inline header in
+       a full or partial file does not mean the file is unlicensed,
+       provided it is identified in the notice file. The notice file
+       itself must be distributed with every copy of the work, in both
+       Source and Object form. Where a project contains a mix of files
+       that can and cannot carry inline headers, you may consolidate
+       all file-level copyright notices into a single notice file for
+       the entire project rather than using inline headers, provided
+       that every full or partial file in the work is accounted for in
+       that notice file.
+
+       The License files and this License Addendum must be included
+       with the source distribution. Referencing external URLs is not
+       acceptable; the full text of both the Apache License, Version
+       2.0 and this License Addendum must be physically included in
+       the source distribution.
+
+   (c) Distribution in Object Form. This section applies to all forms
+       of distribution of the Work, Derivative Works, or Larger Works
+       in Object form that include a user interface (user-facing apps,
+       executables with UI). You must reproduce the complete and
+       unmodified text of both licenses:
+
+         - The Apache License, Version 2.0 (January 2004)
+         - This License Addendum
+
+       The full text of both licenses must be bundled with or
+       embedded in the executable and directly accessible to the
+       user, where the user can access it easily through the user
+       interface. Path-based declarations are not required.
+
+    (d) Network Interaction. If the Work, or any portion thereof, is
+    made available through a network interface in a manner that
+    leads to the distribution of the Work in Source form or Object
+    form to users, You must cause a webpage accessible through that
+    same network interface to prominently display:
+
+     (i) the complete and unmodified text of both the Apache
+         License, Version 2.0 (January 2004) and this License
+         Addendum; and
+
+    (ii) a per-file notice listing for every file of the Work that
+         is covered, whether in full or in part, by the Apache
+         License, Version 2.0 and this License Addendum. Each
+         entry in this listing must follow the format required by
+         Appendix Section (b) and must state, at minimum:
+
+           File: [relative path to the full or partial file,
+                  or directory]
+           Copyright [yyyy] [name of copyright owner]
+           Licensed under the Apache License, Version 2.0,
+           January 2004 and the License Addendum
+
+         Each entry must also state whether the file is fully or
+         partially covered. Where the Work employs a consolidated
+         notice file as permitted under Appendix Section (b), the
+         contents of that notice file satisfy this requirement,
+         provided the file is made directly accessible through the
+         network interface.
+
+    The webpage containing this information must remain accessible
+    to users for as long as the Work is made available through the
+    network interface.
+
+    Notwithstanding Sections (d)(i) and (d)(ii), if You
+    distribute the Work as a file through an internet website
+    or similar online host such that the complete file is
+    directly visible and downloadable by recipients, You are
+    exempt from the requirements of Sections (d)(i) and (d)(ii)
+    with respect to that distribution, provided that the
+    distributed file complies with Appendix Sections (a) and (b).
+
+    Notwithstanding the foregoing, this Section (d) does not apply
+    if You distribute the Work in Object form accompanied by a User
+    Interface, provided that You fully comply with the requirements
+    of Appendix Section (c) with respect to that distribution.
+
+    Notwithstanding Sections (d)(i) and (d)(ii), the exemptions
+    set forth in this Section (d) shall also extend to the physical
+    distribution of the Work, provided that, where the Work is
+    distributed to a recipient by means of a physical device or
+    physical medium, such recipient complies with all applicable
+    directions and requirements set forth in Appendix Sections
+    (a), (b), and (c).
