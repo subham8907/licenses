@@ -863,12 +863,18 @@ Section 7 of the GNU GPL.
   5. Conveying Modified Versions.
 
   If you modify the covered work and convey the modified version,
-you must convey the modified version under both the GNU General
-Public License version 3 and this License Exception, on the same
-terms and conditions applicable to conveying the unmodified covered
-work.  You may not impose any additional restrictions on the
-recipients' exercise of the rights granted under this License
-Exception or the GNU GPL.
+you may convey it under either of the following:
+
+    a) under both the GNU General Public License version 3 and this
+    License Exception, on the same terms and conditions applicable
+    to conveying the unmodified covered work; or
+
+    b) under the GNU GPL, with none of the additional permissions of
+    this License applicable to that copy.
+
+  You may not impose any additional restrictions on the recipients'
+exercise of the rights granted under this License Exception or the
+GNU GPL.
 
                             APPENDIX
 
