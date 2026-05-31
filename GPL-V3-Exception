@@ -725,7 +725,7 @@ Licensor and subsequently incorporated within the Work.
   "Release Date" means the date on which the covered work was first
 publicly conveyed or made available by the Licensor, as specified in
 the Appendix to this License.  If no Release Date is specified in the
-Appendix, the rights and exemptions under Section 4 apply
+Appendix, the rights and exemptions under Section 2 apply
 automatically and immediately upon the first act of conveyance of the
 covered work.
 
@@ -749,79 +749,80 @@ rights or obligations of any other recipient, nor does it affect the
 Additional permissions as they apply to any other copy of the covered
 work.
 
-  Exception to Section 6 of the GNU GPL.
+  1. Exception to Section 6 of the GNU GPL.
 
   If you cannot convey a covered work under the terms of Section 6
 of the GNU GPL, then you must do each of the following:
 
-  1. You may convey a covered work in object code form under the
-terms of Sections 4 and 5, provided that you also convey the
-machine-readable Corresponding Source through a public computer
-network (i.e., the internet) for 3 years, either through a
-downloadable URL or by ensuring that it is accessible to the
-recipient.  If the place to copy the object code is a network
-server, the Corresponding Source may be on a different server
-(operated by you or a third party) that supports equivalent copying
-facilities, provided you maintain clear directions next to the object
-code stating where the Corresponding Source can be found.  Regardless
-of what server hosts the Corresponding Source, you remain obligated
-to ensure that it is available for as long as needed to satisfy these
-requirements.
+   a) You may convey a covered work in object code form under the
+   terms of Sections 4 and 5 of the GNU GPL, provided that you also
+   convey the machine-readable Corresponding Source through a public
+   computer network (i.e., the internet) for 3 years, either through
+   a downloadable URL or by ensuring that it is accessible to the
+   recipient.  If the place to copy the object code is a network
+   server, the Corresponding Source may be on a different server
+   (operated by you or a third party) that supports equivalent
+   copying facilities, provided you maintain clear directions next to
+   the object code stating where the Corresponding Source can be
+   found.  Regardless of what server hosts the Corresponding Source,
+   you remain obligated to ensure that it is available for as long as
+   needed to satisfy these requirements.
 
-  2. You must provide valid contact information, including an email
-address or other acceptable means of communication, so that in the
-event the network server hosting the Corresponding Source becomes
-unavailable or inaccessible, the Corresponding Source may be conveyed
-directly to the recipient.  Such contact information must be made
-available through at least one of the following:
+   b) You must provide valid contact information, including an email
+   address or other acceptable means of communication, so that in the
+   event the network server hosting the Corresponding Source becomes
+   unavailable or inaccessible, the Corresponding Source may be
+   conveyed directly to the recipient.  Such contact information must
+   be made available through at least one of the following:
 
-    a) a prominent display within the interactive user interface of
-    the object code form of the covered work; or
+       i) a prominent display within the interactive user interface
+       of the object code form of the covered work; or
 
-    b) documentation included or accompanying the covered work when
-    it is conveyed.
+       ii) documentation included or accompanying the covered work
+       when it is conveyed.
 
-  If a recipient contacts you using the provided contact information
-to request the Corresponding Source, you must respond within 30
-working days of receiving such a request.  If you are unable to
-respond within this period solely due to a natural disaster or an
-official governmental shutdown within your jurisdiction, you are
-granted an exemption of up to 365 days from the date on which the
-disabling event commenced, after which the 30 working day response
-obligation resumes.
+   If a recipient contacts you using the provided contact information
+   to request the Corresponding Source, you must respond within 30
+   working days of receiving such a request.  If you are unable to
+   respond within this period solely due to a natural disaster or an
+   official governmental shutdown within your jurisdiction, you are
+   granted an exemption of up to 365 days from the date on which the
+   disabling event commenced, after which the 30 working day response
+   obligation resumes.
 
-  For the avoidance of doubt, the 365-day exemption described above
-applies solely to the response deadline and does not exempt you from
-any other obligation under this License or the GNU GPL.  Regardless
-of whether this exemption is claimed, you remain obligated to convey
-a copy of this License and a copy of the GNU General Public License
-version 3 alongside or accompanying the covered work at the time of
-conveyance.
+   For the avoidance of doubt, the 365-day exemption described above
+   applies solely to the response deadline and does not exempt you
+   from any other obligation under this License or the GNU GPL.
+   Regardless of whether this exemption is claimed, you remain
+   obligated to convey a copy of this License and a copy of the GNU
+   General Public License version 3 alongside or accompanying the
+   covered work at the time of conveyance.
 
-  3. The 3-year period for making the Corresponding Source available,
-as described in Section 1, is not a single cumulative obligation but
-applies independently and afresh upon each separate act of
-conveyance.  Specifically:
+   c) The 3-year period for making the Corresponding Source
+   available, as described in subsection (a) above, is not a single
+   cumulative obligation but applies independently and afresh upon
+   each separate act of conveyance.  Specifically:
 
-    a) Each time you convey the covered work through a different
-    medium -- including but not limited to physical distribution, a
-    different network server, or any other distinct distribution
-    channel -- a new and independent 3-year obligation commences from
-    the date of that conveyance through that medium.
+       i) Each time you convey the covered work through a different
+       medium (including but not limited to physical distribution, a
+       different network server, or any other distinct distribution
+       channel), a new and independent 3-year obligation commences
+       from the date of that conveyance through that medium.
 
-    b) Each time you convey a modified version of the covered work,
-    a new and independent 3-year obligation commences from the date
-    on which that modified version is first conveyed, and applies
-    specifically to the Corresponding Source of that modified version.
+       ii) Each time you convey a modified version of the covered
+       work, a new and independent 3-year obligation commences from
+       the date on which that modified version is first conveyed, and
+       applies specifically to the Corresponding Source of that
+       modified version.
 
-  For the avoidance of doubt, the expiry of a prior 3-year period
-under one medium or version does not satisfy or reduce the obligation
-arising from a subsequent conveyance through a different medium or of
-a different modified version.  Each act of conveyance described in
-(a) and (b) above gives rise to its own independent and full
-obligation under Section 1.
+   For the avoidance of doubt, the expiry of a prior 3-year period
+   under one medium or version does not satisfy or reduce the
+   obligation arising from a subsequent conveyance through a
+   different medium or of a different modified version.  Each act of
+   conveyance described in (i) and (ii) above gives rise to its own
+   independent and full obligation under subsection (a) above.
 
-  4. Automatic Conversion Upon Release.
+  2. Automatic Conversion Upon Release.
 
   On and after the Conversion Date, or immediately and automatically
 if no Release Date is specified in the Appendix, each Contributor
@@ -846,7 +847,16 @@ cross-claim or counterclaim in a lawsuit) alleging that the Work or
 a Contribution incorporated within the Work constitutes direct or
 contributory patent infringement, then any patent licenses granted
 to You under this License for that Work shall terminate as of the
-date such litigation is filed.
+date such litigation is filed.  Such termination is limited solely
+to the patent licenses granted under this License and does not
+affect, reduce, or terminate any rights or licenses granted to You
+under the GNU GPL, which remain governed exclusively by the terms
+of the GNU GPL.  For the avoidance of doubt, this limitation does
+not forgive, excuse, or suspend the underlying patent litigation
+conduct; the GNU GPL's own patent provisions continue to apply
+independently and in full to any such conduct, and nothing in this
+section shall be read as relieving You of any consequence that
+arises under the GNU GPL by reason of that conduct.
 
   All terms and conditions of the GNU GPL shall continue to apply in
 full on and after the Conversion Date.  The Additional permissions
@@ -862,16 +872,16 @@ work to a recipient, that recipient may at their option remove any or
 all Additional permissions from the copy so conveyed, or from any
 part of it, in accordance with the definition set out in Section 0:
 
-    a) You must convey, alongside or accompanying the covered work,
-    a copy of this License in its entirety.
+   a) You must convey, alongside or accompanying the covered work,
+   a copy of this License in its entirety.
 
-    b) You must convey a copy of the GNU General Public License
-    version 3 in its entirety.
+   b) You must convey a copy of the GNU General Public License
+   version 3 in its entirety.
 
-    c) You must convey a copy of your own terms and conditions under
-    which the covered work is being copied, modified, merged,
-    published, distributed, sublicensed, and/or sold, clearly
-    identified as such and distinct from this License and the GNU GPL.
+   c) You must convey a copy of your own terms and conditions under
+   which the covered work is being copied, modified, merged,
+   published, distributed, sublicensed, and/or sold, clearly
+   identified as such and distinct from this License and the GNU GPL.
 
   For the avoidance of doubt, this License Exception operates as an
 additional permission under Section 7 of the GNU GPL.  The terms and
@@ -880,23 +890,23 @@ all circumstances.  The additional permissions and license grants set
 out herein, however, may be waived by a recipient in accordance with
 Section 7 of the GNU GPL.
 
-  5. Conveying Modified Versions.
+  3. Conveying Modified Versions.
 
   If you modify the covered work and convey the modified version,
 you may convey it under either of the following:
 
-    a) under both the GNU General Public License version 3 and this
-    License Exception, on the same terms and conditions applicable
-    to conveying the unmodified covered work; or
+   a) under both the GNU General Public License version 3 and this
+   License Exception, on the same terms and conditions applicable
+   to conveying the unmodified covered work; or
 
-    b) under the GNU GPL, with none of the additional permissions of
-    this License applicable to that copy.
+   b) under the GNU GPL, with none of the additional permissions of
+   this License applicable to that copy.
 
   You may not impose any additional restrictions on the recipients'
 exercise of the rights granted under this License Exception or the
 GNU GPL.
 
-  6. Grant of Copyright License.
+  4. Grant of Copyright License.
 
   Subject to the terms and conditions of this License and the GNU
 GPL, each Contributor hereby grants to You a perpetual, worldwide,
@@ -905,7 +915,7 @@ to reproduce, prepare Derivative Works of, publicly display, publicly
 perform, sublicense, and distribute the Work and such Derivative
 Works in Source or Object form.
 
-  7. Submission of Contributions.
+  5. Submission of Contributions.
 
   Unless You explicitly state otherwise, any Contribution
 intentionally submitted for inclusion in the Work by You to the
@@ -922,7 +932,7 @@ with the Licensor regarding such Contributions.
   To apply this License Exception to your work, attach the following
 notice to each source file or to an accompanying LICENSE or NOTICE
 file.  Fill in the fields enclosed in brackets "[]".  If you do not
-specify a Release Date, the rights and exemptions under Section 4
+specify a Release Date, the rights and exemptions under Section 2
 will apply automatically and immediately upon the first conveyance
 of the covered work.  If you do not specify a Conversion Date, it
 will default to 3,652 days after the Release Date.
@@ -936,14 +946,13 @@ will default to 3,652 days after the Release Date.
   incorporates the GNU General Public License version 3.
 
   Release Date: [YYYY-MM-DD]
-        -- or --
-  Release Date: Not specified (Section 4 rights apply automatically)
+  (If no Release Date is specified, Section 2 rights apply
+  automatically upon the first conveyance of the covered work.)
 
-  Conversion Date: [YYYY-MM-DD] (explicitly specified)
-        -- or --
-  Conversion Date: Not specified (defaults to 3,652 days after Release Date)
-        -- or --
-  Conversion Date: Not applicable (Section 4 rights apply immediately)
+  Conversion Date: [YYYY-MM-DD]
+  (If no Conversion Date is specified, it defaults to 3,652 days
+  after the Release Date.  If Section 2 rights apply immediately,
+  the Conversion Date is not applicable.)
 
   This program is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -954,3 +963,4 @@ will default to 3,652 days after the Release Date.
   along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ------------------------------------------------------------------------
+
