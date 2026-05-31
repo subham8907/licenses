@@ -674,7 +674,7 @@ Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
 
-LICENSE EXCEPTION
+                        LICENSE EXCEPTION
 
   This License Exception incorporates all the terms and conditions of
 version 3 of the GNU General Public License, supplemented by the
@@ -822,17 +822,32 @@ of the GNU GPL, then you must do each of the following:
    conveyance described in (i) and (ii) above gives rise to its own
    independent and full obligation under subsection (a) above.
 
-  2. Automatic Conversion Upon Release.
+  2. Grant of Licenses and Automatic Conversion Upon Release.
+
+  Subject to the terms and conditions of this License and the GNU
+GPL, each Contributor hereby grants to You a perpetual, worldwide,
+non-exclusive, no-charge, royalty-free, irrevocable copyright license
+to reproduce, prepare Derivative Works of, publicly display, publicly
+perform, sublicense, and distribute the Work and such Derivative
+Works in Source or Object form.
 
   On and after the Conversion Date, or immediately and automatically
 if no Release Date is specified in the Appendix, each Contributor
-hereby grants to You the following licenses:
+hereby additionally grants to You the following:
 
   Copyright License: each Contributor hereby grants to You a
 perpetual, worldwide, non-exclusive, no-charge, royalty-free,
 irrevocable copyright license to reproduce, prepare Derivative Works
 of, publicly display, publicly perform, sublicense, and distribute
 the Work and such Derivative Works in Source or Object form.
+
+  Sublicense: any sublicense of the covered work granted pursuant
+to the Copyright License above shall, on and after the Conversion
+Date, be subject to the terms and conditions of the GNU GPL and
+this License.  You may not grant a sublicensee rights broader than
+those granted to You under this License and the GNU GPL, and any
+sublicense must be conveyed under one of the options set out in
+Section 3.
 
   Patent License: each Contributor hereby grants to You a perpetual,
 worldwide, non-exclusive, no-charge, royalty-free, irrevocable
@@ -902,16 +917,11 @@ you may convey it under either of the following:
    b) under the GNU GPL, with none of the additional permissions of
    this License applicable to that copy.
 
-  4. Grant of Copyright License.
+  You may not impose any additional restrictions on the recipients'
+exercise of the rights granted under this License Exception or the
+GNU GPL.
 
-  Subject to the terms and conditions of this License and the GNU
-GPL, each Contributor hereby grants to You a perpetual, worldwide,
-non-exclusive, no-charge, royalty-free, irrevocable copyright license
-to reproduce, prepare Derivative Works of, publicly display, publicly
-perform, sublicense, and distribute the Work and such Derivative
-Works in Source or Object form.
-
-  5. Submission of Contributions.
+  4. Submission of Contributions.
 
   Unless You explicitly state otherwise, any Contribution
 intentionally submitted for inclusion in the Work by You to the
@@ -959,4 +969,3 @@ will default to 3,652 days after the Release Date.
   along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ------------------------------------------------------------------------
-
