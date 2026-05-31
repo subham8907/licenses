@@ -705,14 +705,16 @@ outstanding shares, or (iii) beneficial ownership of such entity.
 by the copyright owner that is granting this License.
 
   "Release Date" means the date on which the covered work was first
-publicly conveyed or made available by the licensor, as specified in
+publicly conveyed or made available by the Licensor, as specified in
 the Appendix to this License.  If no Release Date is specified in the
 Appendix, the rights and exemptions under Section 4 apply
 automatically and immediately upon the first act of conveyance of the
 covered work.
 
-  "Conversion Date" means the date that falls 3,652 days after the
-Release Date.
+  "Conversion Date" means the date specified as such in the Appendix
+to this License.  If no Conversion Date is specified in the Appendix,
+the Conversion Date defaults to the date that falls 3,652 days after
+the Release Date.
 
   "Additional permissions" means terms that supplement the terms of
 the GNU GPL by making exceptions from one or more of its conditions.
@@ -885,7 +887,8 @@ notice to each source file or to an accompanying LICENSE or NOTICE
 file.  Fill in the fields enclosed in brackets "[]".  If you do not
 specify a Release Date, the rights and exemptions under Section 4
 will apply automatically and immediately upon the first conveyance
-of the covered work.
+of the covered work.  If you do not specify a Conversion Date, it
+will default to 3,652 days after the Release Date.
 
 ------------------------------------------------------------------------
 
@@ -899,7 +902,9 @@ of the covered work.
         -- or --
   Release Date: Not specified (Section 4 rights apply automatically)
 
-  Conversion Date: [YYYY-MM-DD, i.e. 3,652 days after Release Date]
+  Conversion Date: [YYYY-MM-DD] (explicitly specified)
+        -- or --
+  Conversion Date: Not specified (defaults to 3,652 days after Release Date)
         -- or --
   Conversion Date: Not applicable (Section 4 rights apply immediately)
 
