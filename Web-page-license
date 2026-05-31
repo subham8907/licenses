@@ -1,36 +1,61 @@
 Web License
 Copyright <YEAR> <COPYRIGHT HOLDER>
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
 
-1. Redistributions of source code must retain the above copyright notice,
-   this list of conditions and the following disclaimer.
+"These implementations" means the copyrightable works covered by this license.
 
-2. For the purposes of this license, redistribution via a website or webpage
-   is defined as occurring only when a user's browser automatically downloads
-   the source code or binary as part of loading, rendering, or executing that
-   webpage. Where such redistribution takes place on a publicly accessible
-   website or webpage, the above copyright notice, this list of conditions,
-   and the following disclaimer must be reproduced on that same webpage.
+Redistribution and use of these implementations in source and binary forms,
+with or without modification, are permitted provided that the following
+conditions are met:
 
-3. Redistributions in binary form used for any purpose other than a publicly
-   displayed or performed website or webpage must reproduce the above copyright
-   notice, this list of conditions, and the following disclaimer in the
-   documentation and/or other materials provided with the distribution.
+1. PATENT LICENSE: The copyright holder hereby grants to you a perpetual,
+   worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as
+   stated in this section) patent license to make, have made, use, offer to
+   sell, sell, import, transfer, and otherwise run, modify, and propagate the
+   contents of these implementations, where such license applies only to those
+   patent claims, both currently owned by the copyright holder and acquired in
+   the future, licensable by the copyright holder that are necessarily infringed
+   by these implementations. This grant does not include claims that would be
+   infringed only as a consequence of further modification of these
+   implementations. If you or your agent or exclusive licensee institute or
+   order or agree to the institution of patent litigation or any other patent
+   enforcement activity against any entity (including a cross-claim or
+   counterclaim in a lawsuit) alleging that any of these implementations or any
+   code incorporated within any of these implementations constitute direct or
+   contributory patent infringement, or inducement of patent infringement, then
+   any patent rights granted to you under this license for these implementations
+   shall terminate as of the date such litigation is filed.
 
-4. Neither the name of the copyright holder nor the names of its contributors
-   may be used to endorse or promote products derived from this software
-   without specific prior written permission.
+2. Redistributions of these implementations in source code form must retain
+   the above copyright notice, this list of conditions and the following
+   disclaimer.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+3. For the purposes of this license, redistribution of these implementations
+   via a website or webpage is defined as occurring only when a user's browser
+   automatically downloads the source code or binary of these implementations
+   as part of loading, rendering, or executing that webpage. Where such
+   redistribution takes place on a publicly accessible website or webpage,
+   the above copyright notice, this list of conditions, and the following
+   disclaimer must be reproduced on that same webpage.
+
+4. Redistributions of these implementations in binary form used for any
+   purpose other than a publicly displayed or performed website or webpage
+   must reproduce the above copyright notice, this list of conditions, and
+   the following disclaimer in the documentation and/or other materials
+   provided with the distribution.
+
+5. Neither the name of the copyright holder nor the names of its contributors
+   may be used to endorse or promote products derived from these
+   implementations without specific prior written permission.
+
+THESE IMPLEMENTATIONS ARE PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
 ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
 LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
 CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
 SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
 INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
 CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
-ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
-POSSIBILITY OF SUCH DAMAGE.
+ARISING IN ANY WAY OUT OF THE USE OF THESE IMPLEMENTATIONS, EVEN IF ADVISED
+OF THE POSSIBILITY OF SUCH DAMAGE.
