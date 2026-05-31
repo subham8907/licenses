@@ -690,6 +690,20 @@ granted under Section 7 of version 3 of the GNU General Public
 License, and the "GNU GPL" refers to version 3 of the GNU General
 Public License.
 
+  A "covered work" means either the unmodified Program or a work
+based on the Program.
+
+  "Legal Entity" shall mean the union of the acting entity and all
+other entities that control, are controlled by, or are under common
+control with that entity.  For the purposes of this definition,
+"control" means (i) the power, direct or indirect, to cause the
+direction or management of such entity, whether by contract or
+otherwise, or (ii) ownership of fifty percent (50%) or more of the
+outstanding shares, or (iii) beneficial ownership of such entity.
+
+  "Licensor" shall mean the copyright owner or Legal Entity authorized
+by the copyright owner that is granting this License.
+
   "Release Date" means the date on which the covered work was first
 publicly conveyed or made available by the licensor, as specified in
 the Appendix to this License.  If no Release Date is specified in the
@@ -704,6 +718,16 @@ Release Date.
 the GNU GPL by making exceptions from one or more of its conditions.
 Such permissions, where operative, are granted as part of this License
 Exception and do not replace or discharge any term of the GNU GPL.
+A recipient of the covered work may, at their option, remove any or
+all Additional permissions from their copy of the covered work, or
+from any part of it, at any time.  Upon such removal, the recipient's
+copy of the covered work, or the relevant part thereof, shall
+thereafter be governed solely by the terms and conditions of the GNU
+GPL, without the benefit of the removed Additional permissions.
+Removal of Additional permissions by a recipient does not affect the
+rights or obligations of any other recipient, nor does it affect the
+Additional permissions as they apply to any other copy of the covered
+work.
 
   Exception to Section 6 of the GNU GPL.
 
@@ -813,7 +837,10 @@ copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the covered work, and permit persons to whom the covered
 work is furnished to do the same, in accordance with the GNU GPL as
 supplemented by the Additional permissions granted herein, subject to
-the following conditions:
+the following conditions.  Where you convey a copy of the covered
+work to a recipient, that recipient may at their option remove any or
+all Additional permissions from the copy so conveyed, or from any
+part of it, in accordance with the definition set out in Section 0:
 
     a) You must convey, alongside or accompanying the covered work,
     a copy of this License in its entirety.
@@ -826,12 +853,22 @@ the following conditions:
     published, distributed, sublicensed, and/or sold, clearly
     identified as such and distinct from this License and the GNU GPL.
 
-  For the avoidance of doubt, the continuation of the GNU GPL's terms
-and conditions under this Section does not limit the Additional
-permissions granted herein.  The obligation to convey this License
-and the GNU GPL in their entirety remains a non-waivable condition
-and survives regardless of any other terms under which the covered
-work is conveyed.
+  For the avoidance of doubt, this License Exception operates as an
+additional permission under Section 7 of the GNU GPL.  The terms and
+conditions of the GNU GPL are non-waivable and continue to govern in
+all circumstances.  The additional permissions and license grants set
+out herein, however, may be waived by a recipient in accordance with
+Section 7 of the GNU GPL.
+
+  5. Conveying Modified Versions.
+
+  If you modify the covered work and convey the modified version,
+you must convey the modified version under both the GNU General
+Public License version 3 and this License Exception, on the same
+terms and conditions applicable to conveying the unmodified covered
+work.  You may not impose any additional restrictions on the
+recipients' exercise of the rights granted under this License
+Exception or the GNU GPL.
 
                             APPENDIX
 
