@@ -674,7 +674,7 @@ Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
 
-                        LICENSE EXCEPTION
+                       LICENSE EXCEPTION
 
   This License Exception incorporates all the terms and conditions of
 version 3 of the GNU General Public License, supplemented by the
@@ -873,8 +873,9 @@ independently and in full to any such conduct, and nothing in this
 section shall be read as relieving You of any consequence that
 arises under the GNU GPL by reason of that conduct.
 
-  All terms and conditions of the GNU GPL shall continue to apply in
-full on and after the Conversion Date.  The Additional permissions
+  All terms and conditions of the GNU GPL shall continue to apply
+in full on and after the Conversion Date, except as expressly set
+out in Section 4 of this License.  The Additional permissions
 granted under this License Exception supplement the terms of the GNU
 GPL by making exceptions from one or more of its conditions; they do
 not replace, suspend, or discharge any term of the GNU GPL.  You may
@@ -921,7 +922,12 @@ you may convey it under either of the following:
 exercise of the rights granted under this License Exception or the
 GNU GPL.
 
-  4. Submission of Contributions.
+  4. Post-Conversion Exemptions.
+
+  On and after the Conversion Date, Sections 3, 4, 5, and 6 of the
+GNU GPL shall not apply to the covered work.
+
+  5. Submission of Contributions.
 
   Unless You explicitly state otherwise, any Contribution
 intentionally submitted for inclusion in the Work by You to the
