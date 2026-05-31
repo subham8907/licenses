@@ -869,9 +869,11 @@ under the GNU GPL, which remain governed exclusively by the terms
 of the GNU GPL.  For the avoidance of doubt, this limitation does
 not forgive, excuse, or suspend the underlying patent litigation
 conduct; the GNU GPL's own patent provisions continue to apply
-independently and in full to any such conduct, and nothing in this
-section shall be read as relieving You of any consequence that
-arises under the GNU GPL by reason of that conduct.
+independently and in full to any such conduct prior to the
+Conversion Date, and subject to Section 4 of this License on and
+after the Conversion Date, and nothing in this section shall be
+read as relieving You of any consequence that arises under the GNU
+GPL by reason of that conduct.
 
   All terms and conditions of the GNU GPL shall continue to apply
 in full on and after the Conversion Date, except as expressly set
@@ -955,8 +957,15 @@ GNU GPL.
 
   4. Post-Conversion Exemptions.
 
-  On and after the Conversion Date, Sections 3, 4, 5, and 6 of the
-GNU GPL shall not apply to the covered work.
+  On and after the Conversion Date, Sections 3, 4, 5, 6, and 11 of
+the GNU GPL shall not apply to the covered work.
+
+  Upon any violation of the conditions of this License, all
+Additional permissions granted under this License are automatically
+and immediately revoked.  With respect to any act that constitutes
+such a violation, the covered work shall be governed solely by the
+terms and conditions of the GNU GPL, without the benefit of any
+Additional permissions.
 
   5. Submission of Contributions.
 
