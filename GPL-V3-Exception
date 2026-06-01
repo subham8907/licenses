@@ -903,18 +903,13 @@ part of it, in accordance with the definition set out in Section 0:
    b) You must convey a copy of the GNU General Public License
    version 3 in its entirety.
 
-   c) You must convey a copy of your own terms and conditions under
-   which the covered work is being copied, modified, merged,
-   published, distributed, sublicensed, and/or sold, clearly
-   identified as such and distinct from this License and the GNU GPL.
-
-   d) You must retain, in the Source Code of any Derivative Works
+   c) You must retain, in the Source Code of any Derivative Works
    that You distribute, all copyright, patent, trademark, and
    attribution notices from the Source Code of the Work, excluding
    those notices that do not pertain to any part of the Derivative
    Works.
 
-       i) If the Work includes a "NOTICE" text file as part of its
+       d) If the Work includes a "NOTICE" text file as part of its
        distribution, then any Derivative Works that You distribute
        must include a readable copy of the attribution notices
        contained within such NOTICE file, excluding those notices
@@ -958,9 +953,6 @@ you may convey it under either of the following:
    b) under the GNU GPL, with none of the additional permissions of
    this License applicable to that copy.
 
-  You may not impose any additional restrictions on the recipients'
-exercise of the rights granted under this License Exception or the
-GNU GPL.
 
   4. Post-Conversion Exemptions.
 
