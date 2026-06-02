@@ -961,10 +961,13 @@ all circumstances.  The additional permissions and license grants set
 out herein, however, may be waived by a recipient in accordance with
 Section 7 of the GNU GPL.
 
-  3. Conveying Modified Versions.
+  3. Conveying Modified Versions and Submission of Contributions.
 
-  If you modify the covered work and convey the modified version,
-you may convey it under either of the following:
+  3(i) Modifying the covered work constitutes acceptance of this
+License Exception for the purposes of this subsection.  If You
+convey the modified version, You may do so under either of the
+following, each of which also constitutes acceptance of
+subsection 3(ii):
 
    a) under both the GNU General Public License version 3 and this
    License Exception, on the same terms and conditions applicable
@@ -973,6 +976,13 @@ you may convey it under either of the following:
    b) under the GNU GPL, with none of the additional permissions of
    this License applicable to that copy.
 
+  3(ii) Unless You explicitly state otherwise, any Contribution
+intentionally submitted for inclusion in the Work by You to the
+Licensor shall be under the terms and conditions of the GNU GPL and
+this License, without any additional terms or conditions.
+Notwithstanding the above, nothing herein shall supersede or modify
+the terms of any separate license agreement you may have executed
+with the Licensor regarding such Contributions.
 
   4. Post-Conversion Exemptions.
 
@@ -998,16 +1008,6 @@ and immediately revoked.  With respect to any act that constitutes
 such a violation, the covered work shall be governed solely by the
 terms and conditions of the GNU GPL, without the benefit of any
 Additional permissions.
-
-  5. Submission of Contributions.
-
-  Unless You explicitly state otherwise, any Contribution
-intentionally submitted for inclusion in the Work by You to the
-Licensor shall be under the terms and conditions of the GNU GPL and
-this License, without any additional terms or conditions.
-Notwithstanding the above, nothing herein shall supersede or modify
-the terms of any separate license agreement you may have executed
-with the Licensor regarding such Contributions.
 
                             APPENDIX
 
