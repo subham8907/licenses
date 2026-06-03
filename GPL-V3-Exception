@@ -64,8 +64,8 @@ marked or otherwise designated in writing by the copyright owner as
 
   "Contributor" shall mean the Licensor and any individual or Legal
 Entity on behalf of whom a Contribution has been received by the
-Licensor and subsequently incorporated within the Work;
-The work thus licensed is called the contributor's “contributor version”.
+Licensor and subsequently incorporated within the Work.  The work
+thus licensed is called the contributor's "contributor version".
 
   "Release Date" means the date on which the covered work was first
 publicly conveyed or made available by the Licensor, as specified in
@@ -215,8 +215,9 @@ with the Work to which such Contribution(s) was submitted.
 license as so relaxed is a non-exclusive, worldwide, royalty-free
 patent license under the contributor's essential patent claims to
 make, use, sell, offer for sale, import and otherwise run, modify
-and propagate the contents of its contributor version in Source Code or Object Code form, except as
-stated in this section and Section 4 of this License.
+and propagate the contents of its contributor version in Source
+Code or Object Code form, except as stated in this section and
+Section 4 of this License.
 
   If You institute patent litigation against any entity (including a
 cross-claim or counterclaim in a lawsuit) alleging that the Work or
