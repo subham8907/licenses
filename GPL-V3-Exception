@@ -3,19 +3,18 @@
 
   This License Exception incorporates all the terms and conditions of
 version 3 of the GNU General Public License, supplemented by the
-additional permissions listed below.
+additional permission listed below.
 
-  The additional permissions set out in this License Exception are
-not granted separately or independently of one another.  They
-constitute a single, unified, and conditional grant.  All additional
-permissions are granted together as a whole, and they are retained
-together as a whole.  In order to retain the benefit of any
-additional permission granted under this License Exception, You must
-retain all of the additional permissions granted herein.  Removal of
-any one additional permission, whether in whole or in part, from the
-covered work or from any copy thereof, constitutes removal of all
-additional permissions, and all such permissions shall thereupon be
-automatically and immediately revoked in their entirety.
+  The additional permission set out in this License Exception is not
+granted separately or independently.  It constitutes a single,
+unified, and conditional grant.  The additional permission is granted
+as a whole, and it is retained as a whole.  In order to retain the
+benefit of the additional permission granted under this License
+Exception, You must retain the additional permission granted herein.
+Removal of the additional permission, whether in whole or in part,
+from the covered work or from any copy thereof, constitutes removal
+of the additional permission, and such permission shall thereupon be
+automatically and immediately revoked in its entirety.
 
                          ADDITIONAL TERMS
 
@@ -79,7 +78,9 @@ to this License.  If no Conversion Date is specified in the Appendix,
 the Conversion Date defaults to the date that falls 3,652 days after
 the Release Date.
 
-  "Additional permissions" as defined in section 7 of GNU GPL
+  "The additional permission" means the single, unified additional
+permission constituted by this License Exception, as granted under
+section 7 of the GNU GPL.
 
   "Work" shall mean the work of authorship, whether in Source code or
 Object code, made available under the License, as indicated by a
@@ -238,18 +239,19 @@ consequence that arises under the GNU GPL by reason of that conduct.
 
   All terms and conditions of the GNU GPL shall continue to apply
 in full on and after the Conversion Date, except as expressly set
-out in Section 4 of this License.  The Additional permissions
-granted under this License Exception supplement the terms of the GNU
-GPL by making exceptions from one or more of its conditions; they do
-not replace, suspend, or discharge any term of the GNU GPL.  You may
-copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the covered work, and permit persons to whom the covered
-work is furnished to do the same, in accordance with the GNU GPL as
-supplemented by the Additional permissions granted herein, subject to
-the following conditions.  Where you convey a copy of the covered
-work to a recipient, that recipient may at their option remove any or
-all Additional permissions from the copy so conveyed, or from any
-part of it, in accordance with the definition set out in Section 0:
+out in Section 4 of this License.  The additional permission
+granted under this License Exception supplements the terms of the
+GNU GPL by making exceptions from one or more of its conditions;
+it does not replace, suspend, or discharge any term of the GNU GPL.
+You may copy, modify, merge, publish, distribute, sublicense, and/or
+sell copies of the covered work, and permit persons to whom the
+covered work is furnished to do the same, in accordance with the GNU
+GPL as supplemented by the additional permission granted herein,
+subject to the following conditions.  Where you convey a copy of the
+covered work to a recipient, that recipient may at their option
+remove the additional permission from the copy so conveyed, or from
+any part of it, in accordance with the definition set out in
+Section 0:
 
    a) You must convey, alongside or accompanying the covered work,
    a copy of this License in its entirety.
@@ -291,7 +293,7 @@ the conditions stated in this License.
   For the avoidance of doubt, this License Exception operates as an
 additional permission under Section 7 of the GNU GPL.  The terms and
 conditions of the GNU GPL are non-waivable and continue to govern in
-all circumstances.  The additional permissions and license grants set
+all circumstances.  The additional permission and license grants set
 out herein, however, may be waived by a recipient in accordance with
 Section 7 of the GNU GPL.
 
@@ -301,13 +303,13 @@ Section 7 of the GNU GPL.
 License Exception for the purposes of this subsection.  If You
 convey the modified version, You may do so under either of the
 following, each of which also constitutes acceptance of
-subsections 3(ii) and 3(iii):
+subsections 3(ii), 3(iii), and 3(iv):
 
    a) under both the GNU General Public License version 3 and this
    License Exception, on the same terms and conditions applicable
    to conveying the unmodified covered work; or
 
-   b) under the GNU GPL, with none of the additional permissions of
+   b) under the GNU GPL, with none of the additional permission of
    this License applicable to that copy.
 
   3(ii) Unless You explicitly state otherwise, any Contribution
@@ -325,17 +327,18 @@ had a Release Date or Conversion Date, it shall be governed by the
 existing Release Date or Conversion Date; you shall not add your
 own Release Date or Conversion Date.
 
-  3(iv) You shall not remove any additional permission granted under
+  3(iv) In order to retain the additional permission granted under
 this License Exception, from Section 0 through the remainder of
-this License.  The following condition applies:
+this License, You must not remove it.  The following condition
+applies:
 
-   a) If You remove any additional permission granted under this
+   a) If You remove the additional permission granted under this
    License Exception from the covered work or from any copy of it
-   that You convey, all additional permissions granted to You under
-   this License Exception are automatically and immediately revoked
-   in their entirety, and the covered work shall thereafter be
-   governed solely by the terms and conditions of the GNU GPL
-   without the benefit of any additional permissions.
+   that You convey, the additional permission granted to You under
+   this License Exception is automatically and immediately revoked,
+   and the covered work shall thereafter be governed solely by the
+   terms and conditions of the GNU GPL without the benefit of the
+   additional permission.
 
   4. Post-Conversion Exemptions.
 
@@ -370,32 +373,32 @@ conditions of Section 11.  Any reference in this License or the GNU
 GPL to Section 11 on and after the Conversion Date shall be read as
 a reference to the patent grant as so continued and relaxed.
 
-  Upon any violation of the conditions of this License, all
-Additional permissions granted under this License are automatically
+  Upon any violation of the conditions of this License, the
+additional permission granted under this License is automatically
 and immediately revoked.  With respect to any act that constitutes
 such a violation, the covered work shall be governed solely by the
-terms and conditions of the GNU GPL, without the benefit of any
-Additional permissions.
+terms and conditions of the GNU GPL, without the benefit of the
+additional permission.
 
   5. Conveying Verbatim Copies.
 
   If You wish to convey and exercise verbatim copies of the covered
-work together with the additional permissions granted under this
+work together with the additional permission granted under this
 License Exception, You must comply with the following condition.
 Conveying a verbatim copy of the covered work with the benefit of
-the additional permissions constitutes acceptance of this condition
-and constitutes an exercise of the additional permissions granted
+the additional permission constitutes acceptance of this condition
+and constitutes an exercise of the additional permission granted
 under this License Exception.  When conveying verbatim copies of the
 covered work under this License Exception, the following condition
 applies:
 
-   a) If You remove any additional permission granted under this
+   a) If You remove the additional permission granted under this
    License Exception from a verbatim copy of the covered work that
-   You convey, all additional permissions granted to You under this
-   License Exception are automatically and immediately revoked in
-   their entirety, and the covered work shall thereafter be governed
-   solely by the terms and conditions of the GNU GPL without the
-   benefit of any additional permissions.
+   You convey, the additional permission granted to You under this
+   License Exception is automatically and immediately revoked, and
+   the covered work shall thereafter be governed solely by the terms
+   and conditions of the GNU GPL without the benefit of the
+   additional permission.
 
                             APPENDIX
 
