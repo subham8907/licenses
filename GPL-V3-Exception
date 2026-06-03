@@ -1,4 +1,4 @@
-                        LICENSE EXCEPTION
+LICENSE EXCEPTION
               (Linkumori Public Open Source License)
 
   This License Exception incorporates all the terms and conditions of
@@ -348,30 +348,103 @@ GNU GPL shall not apply to the covered work.
   With respect to Section 2 of the GNU GPL, the basic permissions
 granted thereunder continue to apply on and after the Conversion
 Date; however, the conditions and requirements of Section 2 of the
-GNU GPL are relaxed as set forth in the copyright license and
-sublicense provisions of Section 2 of this License Exception.  For
-the avoidance of doubt, the basic permissions originating under
+GNU GPL are relaxed as set forth below.
+For the avoidance of doubt, the basic permissions originating under
 Section 2 of the GNU GPL are not extinguished or discharged upon the
 Conversion Date but are carried forward and remain operative, subject
-solely to the relaxed conditions and requirements established in
-Section 2 of this License Exception in place of the original
-conditions of Section 2 of the GNU GPL.  Any reference in this
-License or the GNU GPL to Section 2 of the GNU GPL on and after the
-Conversion Date shall be read as a reference to the basic permissions
-as so continued and relaxed.
+solely to the relaxed conditions and requirements established below
+in place of the original conditions of Section 2 of the GNU GPL.
+Any reference in this License or the GNU GPL to Section 2 of the GNU
+GPL on and after the Conversion Date shall be read as a reference to
+the basic permissions as so continued and relaxed.  On and after the
+Conversion Date, the following terms apply in place of Section 2 of
+the GNU GPL:
+
+  All rights granted under this License are granted for the term of
+copyright on the Program, and are irrevocable provided the stated
+conditions are met.  This License explicitly affirms your unlimited
+permission to run the unmodified Program.  The output from running a
+covered work is covered by this License only if the output, given
+its content, constitutes a covered work.  This License acknowledges
+your rights of fair use or other equivalent, as provided by
+copyright law.
+
+  You may make, run and propagate covered works that you do not
+convey, without conditions so long as your license otherwise remains
+in force.  You may convey covered works to others for the sole
+purpose of having them make modifications exclusively for you, or
+provide you with facilities for running those works, provided that
+you comply with the terms of this License in conveying all material
+for which you do not control copyright.  Those thus making or
+running the covered works for you must do so exclusively on your
+behalf, under your direction and control, on terms that prohibit
+them from making any copies of your copyrighted material outside
+their relationship with you.
 
   With respect to Section 11 of the GNU GPL, the patent grant
 thereunder continues to apply on and after the Conversion Date;
 however, the conditions and requirements of Section 11 are relaxed
-as set forth in the Patent License provisions of Section 2 of this
-License Exception.  For the avoidance of doubt, the patent grant
-originating under Section 11 is not extinguished or discharged upon
-the Conversion Date but is carried forward and remains operative,
-subject solely to the relaxed conditions and requirements established
-in Section 2 of this License Exception in place of the original
-conditions of Section 11.  Any reference in this License or the GNU
-GPL to Section 11 on and after the Conversion Date shall be read as
-a reference to the patent grant as so continued and relaxed.
+as set forth below and in the Patent License provisions of Section 2
+of this License Exception.  For the avoidance of doubt, the patent
+grant originating under Section 11 is not extinguished or discharged
+upon the Conversion Date but is carried forward and remains
+operative, subject solely to the relaxed conditions and requirements
+established below in place of the original conditions of Section 11.
+Any reference in this License or the GNU GPL to Section 11 on and
+after the Conversion Date shall be read as a reference to the patent
+grant as so continued and relaxed.  On and after the Conversion
+Date, the following terms apply in place of Section 11 of the GNU
+GPL.  For purposes of this Section, the definitions of "contributor",
+"contributor version", and "essential patent claims" set out below
+apply and prevail over the definition of "Contributor" in Section 0
+of this License to the extent of any inconsistency:
+
+  A "contributor" is a copyright holder who authorizes use under
+this License of the Program or a work on which the Program is based.
+The work thus licensed is called the contributor's "contributor
+version".
+
+  A contributor's "essential patent claims" are all patent claims
+owned or controlled by the contributor, whether already acquired or
+hereafter acquired, that would be infringed by some manner,
+permitted by this License, of making, using, or selling its
+contributor version, but do not include claims that would be
+infringed only as a consequence of further modification of the
+contributor version.  For purposes of this definition, "control"
+includes the right to grant patent sublicenses in a manner
+consistent with the requirements of this License.
+
+  Each contributor grants you a non-exclusive, worldwide,
+royalty-free patent license under the contributor's essential patent
+claims, to make, use, sell, offer for sale, import and otherwise
+run, modify and propagate the contents of its contributor version.
+If, pursuant to or in connection with a single transaction or
+arrangement, you convey, or propagate by procuring conveyance of, a
+covered work, and grant a patent license to some of the parties
+receiving the covered work authorizing them to use, propagate,
+modify or convey a specific copy of the covered work, then the
+patent license you grant is automatically extended to all recipients
+of the covered work and works based on it.
+
+  A patent license is "discriminatory" if it does not include
+within the scope of its coverage, prohibits the exercise of, or is
+conditioned on the non-exercise of one or more of the rights that
+are specifically granted under this License.  You may not convey a
+covered work if you are a party to an arrangement with a third party
+that is in the business of distributing software, under which you
+make payment to the third party based on the extent of your activity
+of conveying the work, and under which the third party grants, to
+any of the parties who would receive the covered work from you, a
+discriminatory patent license (a) in connection with copies of the
+covered work conveyed by you (or copies made from those copies), or
+(b) primarily for and in connection with specific products or
+compilations that contain the covered work, unless you entered into
+that arrangement, or that patent license was granted, prior to 28
+March 2007.
+
+  Nothing in this License shall be construed as excluding or
+limiting any implied license or other defenses to infringement that
+may otherwise be available to you under applicable patent law.
 
   Upon any violation of the conditions of this License, the
 additional permission granted under this License is automatically
