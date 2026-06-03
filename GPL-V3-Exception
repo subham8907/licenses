@@ -30,6 +30,562 @@ same license and are interchangeable for all purposes.
   A "covered work" means either the unmodified Program or a work
 based on the Program.
 
+  "You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.
+
+  The "Source Code" for a work means the preferred form of the work
+for making modifications to it.
+
+  "Object Code" means any non-source form of a work.
+
+  "Legal Entity" shall mean the union of the acting entity and all
+other entities that control, are controlled by, or are under common
+control with that entity.  For the purposes of this definition,
+"control" means (i) the power, direct or indirect, to cause the
+direction or management of such entity, whether by contract or
+otherwise, or (ii) ownership of fifty percent (50%) or more of the
+outstanding shares, or (iii) beneficial ownership of such entity.
+
+  "Licensor" shall mean the copyright owner or Legal Entity authorized
+by the copyright owner that is granting this License.
+
+  "Contribution" shall mean any work of authorship, including the
+original version of the Work and any modifications or additions to
+that Work or Derivative Works thereof, that is intentionally
+submitted to the Licensor for inclusion in the Work by the copyright
+owner or by an individual or Legal Entity authorized to submit on
+behalf of the copyright owner.  For the purposes of this definition,
+"submitted" means any form of electronic, verbal, or written
+communication sent to the Licensor or its representatives, including
+but not limited to communication on electronic mailing lists, source
+code control systems, and issue tracking systems that are managed by,
+or on behalf of, the Licensor for the purpose of discussing and
+improving the Work, but excluding communication that is conspicuously
+marked or otherwise designated in writing by the copyright owner as
+"Not a Contribution."
+
+  "Contributor" shall mean the Licensor and any individual or Legal
+Entity on behalf of whom a Contribution has been received by the
+Licensor and subsequently incorporated within the Work.  The work
+thus licensed is called the contributor's "contributor version".
+
+  "Release Date" means the date on which the covered work was first
+publicly conveyed or made available by the Licensor, as specified in
+the Appendix to this License.  If no Release Date is specified in the
+Appendix, the rights and exemptions under Section 2 apply
+automatically and immediately upon the first act of conveyance of the
+covered work.
+
+  "Conversion Date" means the date specified as such in the Appendix
+to this License.  If no Conversion Date is specified in the Appendix,
+the Conversion Date defaults to the date that falls 3,652 days after
+the Release Date.
+
+  "The additional permission" means the single, unified additional
+permission constituted by this License Exception, as granted under
+section 7 of the GNU GPL.  As used herein, "the additional
+permission" constitutes "additional permissions" within the meaning
+of section 7 of the GNU GPL, and "additional permissions" has the
+meaning given to that term in section 7 of the GNU GPL.  For the
+avoidance of doubt, this License Exception grants only a single
+additional permission; notwithstanding the use of the plural term
+"additional permissions" in section 7 of the GNU GPL, that single
+permission is subject to the terms and conditions set out herein.
+
+  "Work" shall mean the work of authorship, whether in Source code or
+Object code, made available under the License, as indicated by a
+copyright notice that is included in or attached to the work (an
+example is provided in the Appendix below).
+
+  "Derivative Works" shall mean any work, whether in Source code or
+Object code, that is based on (or derived from) the Work and for
+which the editorial revisions, annotations, elaborations, or other
+modifications represent, as a whole, an original work of authorship.
+For the purposes of this License, Derivative Works shall not include
+works that remain separable from, or merely link (or bind by name) to
+the interfaces of, the Work and Derivative Works thereof.
+
+  1. Exception to Section 6 of the GNU GPL.
+
+  This Section provides an exception to Section 6 of the GNU GPL.
+If You do not wish to avail yourself of this exception, You may
+instead comply directly with Section 6 of the GNU GPL, and nothing
+in this License Exception prevents You from doing so.  Direct
+compliance with Section 6 of the GNU GPL is always available to You
+as an alternative to the exception set out herein.
+
+  If you cannot convey a covered work under the terms of Section 6
+of the GNU GPL, then you must do each of the following:
+
+   a) You may convey a covered work in Object Code under the terms
+   of Sections 4 and 5 of the GNU GPL, provided that you also
+   convey the machine-readable Corresponding Source through a public
+   computer network (i.e., the internet) for 3 years, either through
+   a downloadable URL or by ensuring that it is accessible to the
+   recipient.  If the place to copy the Object Code is a network
+   server, the Corresponding Source may be on a different server
+   (operated by you or a third party) that supports equivalent
+   copying facilities, provided you maintain clear directions next to
+   the Object Code stating where the Corresponding Source can be
+   found.  Regardless of what server hosts the Corresponding Source,
+   you remain obligated to ensure that it is available for as long as
+   needed to satisfy these requirements.
+
+   b) You must provide valid contact information, including an email
+   address or other acceptable means of communication, so that in the
+   event the network server hosting the Corresponding Source becomes
+   unavailable or inaccessible, the Corresponding Source may be
+   conveyed directly to the recipient.  Such contact information must
+   be made available through at least one of the following:
+
+       i) a prominent display within the interactive user interface
+       of the Object Code of the covered work; or
+
+       ii) documentation included with or accompanying the covered work
+       when it is conveyed.
+
+   If a recipient contacts you using the provided contact information
+   to request the Corresponding Source, you must respond within 30
+   working days of receiving such a request.  If you are unable to
+   respond within this period solely due to a natural disaster or an
+   official governmental shutdown within your jurisdiction, you are
+   granted an exemption of up to 365 days from the date on which the
+   disabling event commenced, after which the 30 working day response
+   obligation resumes.
+
+   For the avoidance of doubt, the 365-day exemption described above
+   applies solely to the response deadline and does not exempt you
+   from any other obligation under this License or the GNU GPL.
+   Regardless of whether this exemption is claimed, you remain
+   obligated to convey a copy of this License and a copy of the GNU
+   General Public License version 3 alongside or accompanying the
+   covered work at the time of conveyance.
+
+   c) The 3-year period for making the Corresponding Source
+   available, as described in subsection (a) above, is not a single
+   cumulative obligation but applies independently and afresh upon
+   each separate act of conveyance.  Specifically:
+
+       i) Each time you convey the covered work through a different
+       medium (including but not limited to physical distribution, a
+       different network server, or any other distinct distribution
+       channel), a new and independent 3-year obligation commences
+       from the date of that conveyance through that medium.
+
+       ii) Each time you convey a modified version of the covered
+       work, a new and independent 3-year obligation commences from
+       the date on which that modified version is first conveyed, and
+       applies specifically to the Corresponding Source of that
+       modified version.
+
+   For the avoidance of doubt, the expiry of a prior 3-year period
+   under one medium or version does not satisfy or reduce the
+   obligation arising from a subsequent conveyance through a
+   different medium or of a different modified version.  Each act of
+   conveyance described in (i) and (ii) above gives rise to its own
+   independent and full obligation under subsection (a) above.
+
+  2. Grant of Licenses and Automatic Conversion Upon Release.
+
+  Subject to the terms and conditions of this License and the GNU
+GPL, this Section operates as a Section 7 additional permission that
+supplements -- but does not replace -- the copyright permissions already
+granted under the GNU GPL.  On and after the Conversion Date, and
+with the GNU GPL continuing to apply as the governing base, each
+Contributor hereby grants You a non-exclusive, worldwide, royalty-free
+copyright license to make, use, sell, offer for sale, import and
+otherwise run, modify and propagate the contents of its contributor
+version in Source Code or Object Code form.
+
+  On and after the Conversion Date, or immediately and automatically
+if no Release Date is specified in the Appendix, each Contributor
+hereby additionally grants to You the following:
+
+  Sublicense: any sublicense of the covered work granted pursuant
+to the Copyright License above shall, on and after the Conversion
+Date, be subject to the terms and conditions of the GNU GPL and
+this License.  You may not grant a sublicensee rights broader than
+those granted to You under this License and the GNU GPL, and any
+sublicense must be conveyed under one of the options set out in
+Section 3.
+
+  Patent License: The patent license set forth herein is not a
+separate or independent patent license, but operates as a Section 7
+additional permission that supplements and progressively relaxes the
+conditions of the same patent license originally granted under
+Section 11 of the GNU GPL with respect to the covered work.  Prior
+to the Conversion Date, Section 11 of the GNU GPL governs the patent
+license in full.  On and after the Conversion Date, Section 11 is
+exempted pursuant to Section 4 of this License, and the following
+relaxed conditions apply in its place to those patent claims
+licensable by each Contributor that are necessarily infringed by
+their Contribution(s) alone or by combination of their Contribution(s)
+with the Work to which such Contribution(s) was submitted.
+
+  Subject to the terms and conditions of this License, the patent
+license as so relaxed is a non-exclusive, worldwide, royalty-free
+patent license under the contributor's essential patent claims to
+make, use, sell, offer for sale, import and otherwise run, modify
+and propagate the contents of its contributor version in Source
+Code or Object Code form, except as stated in this section and
+Section 4 of this License.
+
+  If You institute patent litigation against any entity (including a
+cross-claim or counterclaim in a lawsuit) alleging that the Work or
+a Contribution incorporated within the Work constitutes direct or
+contributory patent infringement, then the patent license operating
+under this relaxed framework shall terminate as of the date such
+litigation is filed.  Such termination is limited solely to the
+relaxed patent license conditions operative under this License
+Exception and does not affect any patent rights held by You under
+the GNU GPL that remain in force prior to the Conversion Date.
+For the avoidance of doubt, this limitation does not forgive, excuse,
+or suspend the underlying patent litigation conduct; the GNU GPL's
+patent provisions under Section 11 continue to apply in full to any
+such conduct prior to the Conversion Date, and on and after the
+Conversion Date such conduct is subject to Section 4 of this License.
+Nothing in this section shall be read as relieving You of any
+consequence that arises under the GNU GPL by reason of that conduct.
+
+  All terms and conditions of the GNU GPL shall continue to apply
+in full on and after the Conversion Date, except as expressly set
+out in Section 4 of this License.  The additional permission
+granted under this License Exception supplements the terms of the
+GNU GPL by making exceptions from one or more of its conditions;
+it does not replace, suspend, or discharge any term of the GNU GPL.
+You may copy, modify, merge, publish, distribute, sublicense, and/or
+sell copies of the covered work, and permit persons to whom the
+covered work is furnished to do the same, in accordance with the GNU
+GPL as supplemented by the additional permission granted herein,
+subject to the following conditions.  Where you convey a copy of the
+covered work to a recipient, that recipient may at their option
+remove the additional permission from the copy so conveyed, or from
+any part of it, in accordance with the definition set out in
+Section 0:
+
+   a) You must convey, alongside or accompanying the covered work,
+   a copy of this License in its entirety.
+
+   b) You must convey a copy of the GNU General Public License
+   version 3 in its entirety.
+
+   c) You must retain, in the Source Code of any Derivative Works
+   that You distribute, all copyright, patent, trademark, and
+   attribution notices from the Source Code of the Work, excluding
+   those notices that do not pertain to any part of the Derivative
+   Works.
+
+   d) If the Work includes a "NOTICE" text file as part of its
+   distribution, then any Derivative Works that You distribute
+   must include a readable copy of the attribution notices
+   contained within such NOTICE file, excluding those notices
+   that do not pertain to any part of the Derivative Works, in
+   at least one of the following places: within a NOTICE text
+   file distributed as part of the Derivative Works; within the
+   Source Code or documentation, if provided along with the
+   Derivative Works; or, within a display generated by the
+   Derivative Works, if and wherever such third-party notices
+   normally appear.  The contents of the NOTICE file are for
+   informational purposes only and do not modify the License.
+   You may add Your own attribution notices within Derivative
+   Works that You distribute, alongside or as an addendum to
+   the NOTICE text from the Work, provided that such additional
+   attribution notices cannot be construed as modifying the
+   License.
+
+  You may add Your own copyright statement to Your modifications
+and may provide additional or different license terms and conditions
+for use, reproduction, or distribution of Your modifications, or
+for any such Derivative Works as a whole, provided Your use,
+reproduction, and distribution of the Work otherwise complies with
+the conditions stated in this License.
+
+  For the avoidance of doubt, this License Exception operates as an
+additional permission under Section 7 of the GNU GPL.  The terms and
+conditions of the GNU GPL are non-waivable and continue to govern in
+all circumstances.  The additional permission and license grants set
+out herein, however, may be waived by a recipient in accordance with
+Section 7 of the GNU GPL.
+
+  3. Conveying Modified Versions and Submission of Contributions.
+
+  3(i) Modifying the covered work constitutes acceptance of this
+License Exception for the purposes of this subsection.  If You
+convey the modified version, You may do so under either of the
+following, each of which also constitutes acceptance of
+subsections 3(ii), 3(iii), and 3(iv):
+
+   a) under both the GNU General Public License version 3 and this
+   License Exception, on the same terms and conditions applicable
+   to conveying the unmodified covered work; or
+
+   b) under the GNU GPL, with none of the additional permission of
+   this License applicable to that copy.
+
+  3(ii) Unless You explicitly state otherwise, any Contribution
+intentionally submitted for inclusion in the Work by You to the
+Licensor shall be under the terms and conditions of the GNU GPL and
+this License, without any additional terms or conditions.
+Notwithstanding the above, nothing herein shall supersede or modify
+the terms of any separate license agreement you may have executed
+with the Licensor regarding such Contributions.
+
+  3(iii) If material does not have a Release Date or Conversion Date,
+by modifying the covered work you shall not add a Release Date or
+Conversion Date to that material.  If the covered work originally
+had a Release Date or Conversion Date, it shall be governed by the
+existing Release Date or Conversion Date; you shall not add your
+own Release Date or Conversion Date.
+
+  3(iv) In order to retain the additional permission granted under
+this License Exception, from Section 0 through the remainder of
+this License, You must not remove it.  The following condition
+applies:
+
+   a) If You remove the additional permission granted under this
+   License Exception from the covered work or from any copy of it
+   that You convey, the additional permission granted to You under
+   this License Exception is automatically and immediately revoked,
+   and the covered work shall thereafter be governed solely by the
+   terms and conditions of the GNU GPL without the benefit of the
+   additional permission.
+
+  4. Post-Conversion Exemptions.
+
+  On and after the Conversion Date, Sections 3, 4, 5, and 6 of the
+GNU GPL shall not apply to the covered work.
+
+  With respect to Section 2 of the GNU GPL, the basic permissions
+granted thereunder continue to apply on and after the Conversion
+Date; however, the conditions and requirements of Section 2 of the
+GNU GPL are relaxed as set forth below.
+For the avoidance of doubt, the basic permissions originating under
+Section 2 of the GNU GPL are not extinguished or discharged upon the
+Conversion Date but are carried forward and remain operative, subject
+solely to the relaxed conditions and requirements established below
+in place of the original conditions of Section 2 of the GNU GPL.
+Any reference in this License or the GNU GPL to Section 2 of the GNU
+GPL on and after the Conversion Date shall be read as a reference to
+the basic permissions as so continued and relaxed.  On and after the
+Conversion Date, the following terms apply in place of Section 2 of
+the GNU GPL:
+
+  All rights granted under this License are granted for the term of
+copyright on the Program, and are irrevocable provided the stated
+conditions are met.  This License explicitly affirms your unlimited
+permission to run the unmodified Program.  The output from running a
+covered work is covered by this License only if the output, given
+its content, constitutes a covered work.  This License acknowledges
+your rights of fair use or other equivalent, as provided by
+copyright law.
+
+  You may make, run and propagate covered works that you do not
+convey, without conditions so long as your license otherwise remains
+in force.  You may convey covered works to others for the sole
+purpose of having them make modifications exclusively for you, or
+provide you with facilities for running those works, provided that
+you comply with the terms of this License in conveying all material
+for which you do not control copyright.  Those thus making or
+running the covered works for you must do so exclusively on your
+behalf, under your direction and control, on terms that prohibit
+them from making any copies of your copyrighted material outside
+their relationship with you.
+
+  With respect to Section 11 of the GNU GPL, the patent grant
+thereunder continues to apply on and after the Conversion Date;
+however, the conditions and requirements of Section 11 are relaxed
+as set forth below and in the Patent License provisions of Section 2
+of this License Exception.  For the avoidance of doubt, the patent
+grant originating under Section 11 is not extinguished or discharged
+upon the Conversion Date but is carried forward and remains
+operative, subject solely to the relaxed conditions and requirements
+established below in place of the original conditions of Section 11.
+Any reference in this License or the GNU GPL to Section 11 on and
+after the Conversion Date shall be read as a reference to the patent
+grant as so continued and relaxed.  On and after the Conversion
+Date, the following terms apply in place of Section 11 of the GNU
+GPL.  For purposes of this Section, the definitions of "contributor",
+"contributor version", and "essential patent claims" set out below
+apply and prevail over the definition of "Contributor" in Section 0
+of this License to the extent of any inconsistency:
+
+  A "contributor" is a copyright holder who authorizes use under
+this License of the Program or a work on which the Program is based.
+The work thus licensed is called the contributor's "contributor
+version".
+
+  A contributor's "essential patent claims" are all patent claims
+owned or controlled by the contributor, whether already acquired or
+hereafter acquired, that would be infringed by some manner,
+permitted by this License, of making, using, or selling its
+contributor version, but do not include claims that would be
+infringed only as a consequence of further modification of the
+contributor version.  For purposes of this definition, "control"
+includes the right to grant patent sublicenses in a manner
+consistent with the requirements of this License.
+
+  Each contributor grants you a non-exclusive, worldwide,
+royalty-free patent license under the contributor's essential patent
+claims, to make, use, sell, offer for sale, import and otherwise
+run, modify and propagate the contents of its contributor version.
+If, pursuant to or in connection with a single transaction or
+arrangement, you convey, or propagate by procuring conveyance of, a
+covered work, and grant a patent license to some of the parties
+receiving the covered work authorizing them to use, propagate,
+modify or convey a specific copy of the covered work, then the
+patent license you grant is automatically extended to all recipients
+of the covered work and works based on it.
+
+  A patent license is "discriminatory" if it does not include
+within the scope of its coverage, prohibits the exercise of, or is
+conditioned on the non-exercise of one or more of the rights that
+are specifically granted under this License.  You may not convey a
+covered work if you are a party to an arrangement with a third party
+that is in the business of distributing software, under which you
+make payment to the third party based on the extent of your activity
+of conveying the work, and under which the third party grants, to
+any of the parties who would receive the covered work from you, a
+discriminatory patent license (a) in connection with copies of the
+covered work conveyed by you (or copies made from those copies), or
+(b) primarily for and in connection with specific products or
+compilations that contain the covered work, unless you entered into
+that arrangement, or that patent license was granted, prior to 28
+March 2007.
+
+  Nothing in this License shall be construed as excluding or
+limiting any implied license or other defenses to infringement that
+may otherwise be available to you under applicable patent law.
+
+  Upon any violation of the conditions of this License, the
+additional permission granted under this License is automatically
+and immediately revoked.  With respect to any act that constitutes
+such a violation, the covered work shall be governed solely by the
+terms and conditions of the GNU GPL, without the benefit of the
+additional permission.
+
+  5. Conveying Verbatim Copies.
+
+  If You wish to convey and exercise verbatim copies of the covered
+work together with the additional permission granted under this
+License Exception, You must comply with the following condition.
+Conveying a verbatim copy of the covered work with the benefit of
+the additional permission constitutes acceptance of this condition
+and constitutes an exercise of the additional permission granted
+under this License Exception.  When conveying verbatim copies of the
+covered work under this License Exception, the following condition
+applies:
+
+   a) If You remove the additional permission granted under this
+   License Exception from a verbatim copy of the covered work that
+   You convey, the additional permission granted to You under
+   this License Exception is automatically and immediately revoked,
+   and the covered work shall thereafter be governed solely by the terms
+   and conditions of the GNU GPL without the benefit of the
+   additional permission.
+
+   6. Compliance with the GNU GPL as a Condition of the Additional
+Permission.
+
+  In order to enjoy the exception and the additional permission
+granted under this License Exception, You must comply with all terms
+and conditions of the GNU General Public License version 3.  The
+additional permission granted herein is available to You solely on
+the condition that You comply with the GNU GPL in full.  Any failure
+to comply with the terms and conditions of the GNU GPL automatically
+and immediately terminates Your right to the benefit of the
+additional permission granted under this License Exception, and the
+covered work shall thereafter be governed solely by the terms and
+conditions of the GNU GPL without the benefit of the additional
+permission.
+
+  7. Exception to Section 3.
+  By complying with all terms and conditions of this License, you are exempted
+from Section 3 of the GNU GPL.
+
+                            APPENDIX
+
+     How to Apply the Linkumori Public Open Source License to Your Work
+
+  To apply the Linkumori Public Open Source License (this License
+Exception) to your work, attach the following notice to each source
+file or to an accompanying LICENSE or NOTICE file.  Fill in the
+fields enclosed in brackets "[]".  If you do not specify a Release
+Date, the rights and exemptions under Section 2 will apply
+automatically and immediately upon the first conveyance of the
+covered work.  If you do not specify a Conversion Date, it will
+default to 3,652 days after the Release Date.
+
+  You may declare the Conversion Date in a single LICENSE or NOTICE
+file rather than updating each individual source file.  Where a
+Conversion Date is so declared, you must include a Scope declaration
+specifying whether the declared Conversion Date applies to all files
+in the covered work or only to specified files or directories.  Where
+no Scope is stated, the declared Conversion Date shall be deemed to
+apply to all files in the covered work.
+
+------------------------------------------------------------------------
+
+  [Work Name]
+  Copyright (C) [Year] [Name of Copyright Holder]
+
+  This work is licensed under the Linkumori Public Open Source
+  License (License Exception), which incorporates the GNU General
+  Public License version 3.
+
+  Release Date: [YYYY-MM-DD]
+  (If no Release Date is specified, Section 2 rights apply
+  automatically upon the first conveyance of the covered work.)
+
+  Conversion Date: [YYYY-MM-DD]
+  (If no Conversion Date is specified, it defaults to 3,652 days
+  after the Release Date.  If Section 2 rights apply immediately,
+  the Conversion Date is not applicable.)
+
+  Scope: All files in this Work
+  (If no Scope is specified, this Conversion Date applies to all
+  files in the covered work.  To limit the scope, list the specific
+  files or directories to which this Conversion Date applies.)
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+------------------------------------------------------------------------
+                        LICENSE EXCEPTION
+              (Linkumori Public Open Source License)
+
+  This License Exception incorporates all the terms and conditions of
+version 3 of the GNU General Public License, supplemented by the
+additional permission listed below.
+
+  The additional permission set out in this License Exception is not
+granted separately or independently.  It constitutes a single,
+unified, and conditional grant.  The additional permission is granted
+as a whole, and it is retained as a whole.  In order to retain the
+benefit of the additional permission granted under this License
+Exception, You must retain the additional permission granted herein.
+Removal of the additional permission, whether in whole or in part,
+from the covered work or from any copy thereof, constitutes removal
+of the additional permission, and such permission shall thereupon be
+automatically and immediately revoked in its entirety.
+
+                         ADDITIONAL TERMS
+
+  0. Additional Definitions.
+
+  As used herein, "this License" refers to the License Exception
+granted under Section 7 of version 3 of the GNU General Public
+License, and the "GNU GPL" refers to version 3 of the GNU General
+Public License.  This License Exception may also be referred to as
+the "Linkumori Public Open Source License"; both names refer to the
+same license and are interchangeable for all purposes.
+
+  A "covered work" means either the unmodified Program or a work
+based on the Program.
+
   You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.
 
   The "Source Code" for a work means the preferred form of the work
