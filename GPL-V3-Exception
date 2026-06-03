@@ -1,5 +1,5 @@
-                        LICENSE EXCEPTION
-              (Linkumori Public Open Source License)
+LICENSE EXCEPTION
+(Linkumori Public Open Source License)
 
 This License Exception incorporates all the terms and conditions of
 version 3 of the GNU General Public License, supplemented by the
@@ -81,13 +81,17 @@ Date defaults to the date that falls 3,652 days after the Release Date.
 multiple permissions granted under this License Exception pursuant to
 Section 7 of the GNU GPL. These additional permissions include various
 exceptions, grants, relaxations, and supplementary terms set forth
-throughout this License. For the avoidance of doubt, these additional
-permissions are granted collectively as a whole, and the entirety of
-this License – including all its terms and conditions – is required to
-enjoy any of them. Each additional permission is distinct under Section 7
-of the GNU GPL, but none may be exercised separately from the others;
-the benefit of any individual additional permission is contingent upon
-acceptance and retention of this License in its entirety.
+throughout this License. Each such additional permission is granted as a
+substitute condition such that all additional permissions under this
+License must be accepted and retained as a whole. No additional permission
+may be exercised separately, nor may any be removed or waived independently.
+If any additional permission is removed from the covered work or from any
+copy thereof, whether in whole or in part, or if any condition applicable
+to any additional permission is violated, then all additional permissions
+granted under this License are automatically and immediately revoked in
+their entirety. For the avoidance of doubt, this means either all
+additional permissions apply in full (as substitutes for the corresponding
+default terms of the GNU GPL), or none of them apply.
 
 "Work" shall mean the work of authorship, whether in Source code or
 Object code, made available under the License, as indicated by a
