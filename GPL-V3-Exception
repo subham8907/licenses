@@ -1,4 +1,4 @@
-                        LICENSE EXCEPTION
+LICENSE EXCEPTION
               (Linkumori Public Open Source License)
 
   This License Exception incorporates all the terms and conditions of
@@ -65,7 +65,6 @@ marked or otherwise designated in writing by the copyright owner as
   "Contributor" shall mean the Licensor and any individual or Legal
 Entity on behalf of whom a Contribution has been received by the
 Licensor and subsequently incorporated within the Work.
-The work thus licensed is called the contributor's “contributor version”.
 
   "Release Date" means the date on which the covered work was first
 publicly conveyed or made available by the Licensor, as specified in
@@ -181,12 +180,10 @@ GPL, this Section operates as a Section 7 additional permission that
 supplements -- but does not replace -- the copyright permissions already
 granted under the GNU GPL.  On and after the Conversion Date, and
 with the GNU GPL continuing to apply as the governing base, each
-Contributor hereby exempts You, on a perpetual, worldwide,
-non-exclusive, no-charge, royalty-free, and irrevocable basis, from
-any restriction that would otherwise prevent You from reproducing,
-preparing Derivative Works of, publicly displaying, publicly
-performing, sublicensing, and distributing the Work and such
-Derivative Works in Source Code or Object Code.
+Contributor hereby grants You a non-exclusive, worldwide, royalty-free
+copyright license to make, use, sell, offer for sale, import and
+otherwise run, modify and propagate the contents of its contributor
+version.
 
   On and after the Conversion Date, or immediately and automatically
 if no Release Date is specified in the Appendix, each Contributor
@@ -214,10 +211,11 @@ their Contribution(s) alone or by combination of their Contribution(s)
 with the Work to which such Contribution(s) was submitted.
 
   Subject to the terms and conditions of this License, the patent
-license as so relaxed is perpetual, worldwide, non-exclusive,
-no-charge, royalty-free, and irrevocable (except as stated in this
-section and Section 4 of this License) to make, have made, use,
-offer to sell, sell, import, and otherwise transfer the Work.
+license as so relaxed is a non-exclusive, worldwide, royalty-free
+patent license under the contributor's essential patent claims to
+make, use, sell, offer for sale, import and otherwise run, modify
+and propagate the contents of its contributor version, except as
+stated in this section and Section 4 of this License.
 
   If You institute patent litigation against any entity (including a
 cross-claim or counterclaim in a lawsuit) alleging that the Work or
@@ -319,15 +317,15 @@ the terms of any separate license agreement you may have executed
 with the Licensor regarding such Contributions.
 
   3(iii) If material does not have a Release Date or Conversion Date,
-  by modifying the covered work you shall not add a Release Date or
-  Conversion Date to that material.  If the covered work originally
-  had a Release Date or Conversion Date, it shall be governed by the
-  existing Release Date or Conversion Date; you shall not add your
-  own Release Date or Conversion Date.
+by modifying the covered work you shall not add a Release Date or
+Conversion Date to that material.  If the covered work originally
+had a Release Date or Conversion Date, it shall be governed by the
+existing Release Date or Conversion Date; you shall not add your
+own Release Date or Conversion Date.
 
   3(iv) You shall not remove any additional permission granted under
-  this License Exception, from Section 0 through the remainder of
-  this License.  The following condition applies:
+this License Exception, from Section 0 through the remainder of
+this License.  The following condition applies:
 
    a) If You remove any additional permission granted under this
    License Exception from the covered work or from any copy of it
