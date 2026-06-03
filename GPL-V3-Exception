@@ -30,6 +30,8 @@ same license and are interchangeable for all purposes.
   A "covered work" means either the unmodified Program or a work
 based on the Program.
 
+  You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.
+
   The "Source Code" for a work means the preferred form of the work
 for making modifications to it.
 
@@ -494,6 +496,10 @@ additional permission granted under this License Exception, and the
 covered work shall thereafter be governed solely by the terms and
 conditions of the GNU GPL without the benefit of the additional
 permission.
+
+  7. Exception to section 3.
+  By complying you all terms and conditions of this license you are exempted
+from Section 3 of GNU GPL
 
                             APPENDIX
 
